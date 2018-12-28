@@ -35,8 +35,6 @@ export default class ArrowFunction extends Component {
             <TouchableOpacity onPress={()=>{this.GIAM()}}>
             <Text style={styles.tang}>Giảm</Text>
             </TouchableOpacity>
-
-
         </View>
       </View>
     );
